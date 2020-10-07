@@ -1,6 +1,7 @@
 # Motivation
 
-![Lego Kids](lego-kid.jpeg) Going back in time, when Alan Turing built 
+![Lego Kids](lego-kid.jpeg) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvan001%2Flesscode-fp.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvan001%2Flesscode-fp?ref=badge_shield)
+Going back in time, when Alan Turing built 
 [Turing machine](https://en.wikipedia.org/wiki/Turing_machine) to perform computation, Alanzo Chruch designed 
 [Lambda Calculus](https://en.wikipedia.org/wiki/Lambda_calculus) to mathematically compute anything by composing lambda functions (world's smallest programming langauage). 
 Soon world got filled with programming languages in both the paradigms and many languages start borrowing each other's concept (sounds familiar?) to only become bloated and un-manageable. 
@@ -409,3 +410,7 @@ $3(os)(suppercase)(is)
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fvan001%2Flesscode-fp.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fvan001%2Flesscode-fp?ref=badge_large)
